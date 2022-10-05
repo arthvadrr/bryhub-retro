@@ -40,4 +40,4 @@ bryhub-retro requires no plugins, although Wordfence is highly recommended.
 * Material Designs, your box shadows are the best on the web.
 * Pixabay for all the free images anyone could want.
 * OMGSVG and icomoon, my go-to for all my svg needs
-* Special thanks to the Affinity team for Designer and Photo and the reasonable affordable prices of their software, since Adobe is absolutely on crack these days.
+* Special thanks to the Affinity team for Designer and Photo and the reasonable affordable prices of their software
